@@ -1,6 +1,7 @@
 # Course-menager
 
-Um gerenciador de cursos com objetivo de ter um introdução de angular
+Gerenciador de cursos com objetivo de ter uma introdução sobre angular. <br>
+Curso **Digital Innovation One**
 
 ## Dependências
 
@@ -52,3 +53,6 @@ Execute a aplicação:
 ```
 node serve.js
 ```
+
+## Tags
+- Tag: v1.0: Versão curso DIO
