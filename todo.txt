@@ -1,0 +1,4 @@
+- Disponibilizar um banco de dados( SQLight )
+- Criar uma API para editar, deletar e cadastrar produtos
+- Consumir a API no front
+- Gerar uma nova tag após estar com o back-end finalizado
